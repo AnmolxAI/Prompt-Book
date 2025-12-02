@@ -38,4 +38,23 @@ This document contains structured prompts designed to extract high-quality, nuan
 > 3. **Future Trends:** Where is the research likely heading in the next 5 years?"
 
 ---
+## 4. The "Socratic Stress-Test" Prompt
+**Goal:** To critique a hypothesis or draft and identify logical fallacies.
 
+> **Prompt:**
+> "I am going to present a hypothesis/argument regarding **[Topic]**. I want you to act as a critical peer reviewer or a Devil's Advocate.
+>
+> **My Argument:** [Insert your summary or thesis here].
+>
+> Please critique this strictly. Identify logical fallacies, potential biases, counter-examples, or alternative explanations that I have failed to consider. Do not be polite; focus on rigorous intellectual scrutiny."
+
+---
+
+## 5. The "Synthesis & Analogies" Prompt
+**Goal:** To connect two distinct ideas or explain complex concepts to laypeople.
+
+> **Prompt:**
+> "I am trying to understand the relationship between **[Concept A]** and **[Concept B]**.
+> 1. Synthesize these two concepts: Where do they intersect, and where do they contradict each other?
+> 2. Provide 3 distinct analogies to explain this relationship to a layperson.
+> 3. Provide one real-world case study or historical example where these two concepts interacted."
